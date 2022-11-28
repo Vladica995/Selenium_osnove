@@ -1,3 +1,6 @@
+src/d*
+img/
+test-output/
 src/p*
 .metadata
 bin/
